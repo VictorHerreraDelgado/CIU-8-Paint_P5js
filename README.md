@@ -54,9 +54,16 @@ Si bien borrar en paint se le podría asignar al click derecho, debido a estar o
 ## Referencias
 
 Editor utilizado:  
+https://editor.p5js.org/
+
+Enlace a ejecutable:  
 https://github.com/VictorHerreraDelgado/CIU-8-Paint_P5js.git
 
+Enlace a P5js:
+https://editor.p5js.org/Victor_HD/full/197gpk_8e
 
+Documentación de P5js:  
+https://p5js.org/reference/
 
 
 

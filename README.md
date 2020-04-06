@@ -34,6 +34,8 @@ Por último, se encuentra un botón con el cual borrar todo el contenido del lie
 
 Además del lienzo normal se han creado dos gráficos (uno de interfaz y otro de dibujo) que se ponen en pantalla con la función image() que denominaremos capas. Los cambios en el dibujo se plasmarán en una de las capas, de manera que el cambio de fondo no afecte al dibujo así como en la capa de interfaz se dibujaran los distintos elementos visuales (como las distintas formas del cursor o las previsualizaciones de las líneas y elipses) de manera que sean visibles pero no afecten al dibujo final.
 
+**Nota: El código principal se encuentra en el archivo sketch.js**
+
 ## Instrucciones
 
 - **Click izquierdo**: Dibujar o previsualizar formas.   
